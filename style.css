@@ -1,0 +1,24 @@
+body {
+    margin: 0
+    padding:0
+}
+nav {
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+.logo img {
+    height: 40px;
+}
+.navbar {
+    display: inline-block;
+    margin-right: 15px;
+}
+.navbar li a { 
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
