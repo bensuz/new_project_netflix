@@ -28,7 +28,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 40px;
-    
 }
 img {
     width: 20rem;
@@ -63,4 +62,5 @@ h2 {
         gap: 40px;
         align-items: center;
         justify-content: center;
+    }
 }
